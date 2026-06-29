@@ -645,6 +645,7 @@ Desktop = Grid
     .serviceSwiper .swiper-slide{
         width:auto !important;
         height:auto;
+         margin-bottom:20px !important;
     }
 
     .service-pagination{
@@ -669,6 +670,7 @@ Mobile = Slider
 
     .serviceSwiper .swiper-slide{
         height:auto;
+        margin-bottom:12px !important;
     }
 
     .service-card{
